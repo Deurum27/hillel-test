@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Таблица с описанием программы курса</title>
+    <meta name="description" content="Список с подробным описанием программы курса компьютерной школы Hillel">
+</head>
+        <body>
+            <table>
+                <tr>
+                    <td rowspan="2">Введение. Установка необходимого ПО</td>
+                    <td>Современный Front-end. Перспективы развития и тренды</td>
+                </tr>
+                <tr>
+                    <td>Установка ПО, подготовка окружения для разработки</td>
+                </tr>
+            <tr>
+                <td rowspan="10">Знакомство с HTML</td>
+                <td>Структура HTML-документа</td></tr>
+                <tr><td>Теги, атрибуты тегов</td></tr>
+                <tr><td>Разметка текста с помощью HTML</td></tr>
+                <tr><td>Ссылки</td></tr>
+                <tr><td>Списки</td></tr>
+                <tr><td>Таблицы</td></tr>
+                <tr><td>Изображения. Форматы изображений</td></tr>
+                <tr><td>Формы</td></tr>
+                <tr><td>Медиа (video, audio). Iframe</td></tr>
+                <tr><td>Теги-ориентиры (header, main, aside, nav, section, article)</td></tr>
+            <tr>
+                <td rowspan="10">Знакомство с CSS</td>
+                <td>Каскадность. Наследование</td>
+            </tr>
+            <tr><td>Подключение CSS</td></tr>
+            <tr><td>Родные стили. Normalize.css Reset.css</td></tr>
+            <tr><td>Селекторы</td></tr>
+            <tr><td>Стилизация текста</td></tr>
+            <tr><td>Шрифты</td></tr>
+            <tr><td>Блочная модель</td></tr>
+            <tr><td>Float. Float layout. Clearfix</td></tr>
+            <tr><td>Position</td></tr>
+            <tr><td>Псевдоклассы. Псевдоэлементы</td></tr>
+            <tr>
+                <td rowspan="5">Advanced CSS</td>
+                <td>Flexbox. Flexbox layout</td>
+            </tr>
+            <tr><td>CSS Grid. Grid layout</td></tr>
+            <tr><td>CSS препроцессоры</td></tr>
+            <tr><td>CSS фреймворки</td></tr>
+            <tr><td>CSS методологии</td></tr>
+            <tr>
+                <td rowspan="4">Знакомство с SVG</td>
+                <td>Система координат в SVG</td>
+            </tr>
+            <tr><td>Способы добавить SVG на страницу</td></tr>
+            <tr><td>Примитивные фигуры</td></tr>
+            <tr><td>Стилизация SVG</td></tr>
+            <tr>
+                <td rowspan="4">Продвинутая работа с графикой</td>
+                <td>Иконочные шрифты</td>
+            </tr>
+            <tr><td>SVG Спрайты</td></tr>
+            <tr><td>Адаптивная графика. Тег picture</td></tr>
+            <tr><td>Оптимизация графики</td></tr>
+            <tr>
+                <td rowspan="4">Адаптивная верстка</td>
+                <td>Определение Viewport</td>
+            </tr>
+            <tr><td>Единицы измерения vh, vw, vmin, vmax, rem</td></tr>
+            <tr><td>Знакомство с концепцией Responsive Web Design</td></tr>
+            <tr><td>Mobile-first/Desktop-first</td></tr>
+            <tr>
+                <td rowspan="2">Семантика и доступность</td>
+                <td>Семантическая разметка</td>
+            </tr>
+            <tr><td>Доступность пользовательских интерфейсов</td></tr>
+            <tr>
+                <td rowspan="4">CSS анимации</td>
+                <td>Transform</td>
+            </tr>
+            <tr><td>Transition</td></tr>
+            <tr><td>Filter</td></tr>
+            <tr><td>Animation</td></tr>
+        </table>
+        </body>
